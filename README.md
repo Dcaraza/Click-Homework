@@ -1,1 +1,1 @@
-# Click-Homework
+# clicky-game
